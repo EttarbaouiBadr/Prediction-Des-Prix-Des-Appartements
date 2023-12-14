@@ -19,7 +19,9 @@ Predicting apartment prices using machine learning.
 
 ## Introduction
 
-Briefly introduce the project, its purpose, and the problem you are trying to solve. Provide an overview of the apartment price prediction task.
+In this project, we leverage machine learning techniques to analyze a comprehensive dataset containing information about apartments. Through data preprocessing, exploratory data analysis, and model development, we strive to create a predictive model capable of estimating apartment prices with precision.
+The predictive model considers various factors such as location, size, amenities, and other relevant features to make informed predictions. By the end of this project, we aim to not only create an accurate model but also share insights into the factors that significantly influence apartment prices.
+Feel free to explore the project, contribute to its development, and utilize the predictive model for your own analyses. Let's delve into the world of apartment price prediction and unlock the potential of data-driven decision-making in real estate!
 
 ## Dataset
 
